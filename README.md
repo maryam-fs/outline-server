@@ -8,7 +8,7 @@ provides an API used by the Outline Manager application.
 
 Go to https://getoutline.org for ready-to-use versions of the software.
 
-## Components
+##### Components
 
 The system comprises the following components:
 
@@ -30,7 +30,7 @@ The system comprises the following components:
   See [`src/metrics_server`](src/metrics_server)
 
 
-## Code Prerequisites
+#### Code Prerequisites
 
 In order to build and run the code, you need the following installed:
   - [Node](https://nodejs.org/)
